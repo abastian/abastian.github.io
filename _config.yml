@@ -51,8 +51,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+timezone: Asia/Jakarta
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 # Github Pages related
-lsi: false
+lsi: true
 # safe: true
 incremental: false
 highlighter: rouge

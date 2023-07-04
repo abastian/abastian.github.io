@@ -3,7 +3,6 @@ layout: post
 title: Pengenalan ScyllaDB
 date: 2023-06-26
 tags: nosql scylladb
-excerpt_separator: <!--more-->
 ---
 
 Dalam artikel ini akan dibahas sekilas mengenai ScyllaDB dan jargon-jargon yang sering digunakan di dalam dokumentasi.
